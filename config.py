@@ -1,0 +1,1 @@
+URL = "https://g1.globo.com/jogos/sudoku/"
